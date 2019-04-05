@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="blank" />
+    <string name="edit_text_caption_hint">Заголовок</string>
+    <string name="edit_text_description_hint">Описание</string>
+    <string name="text_view_priority">Важность:</string>
+    <string name="button_save">Сохранить</string>
+    <string name="add_new_task_title">Новая задача</string>
+</resources>
